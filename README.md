@@ -1,3 +1,6 @@
+> THIS IS TEMPORARTY FORK
+> PLEASE REFER TO THE [ORIGINAL LIBRARY](https://github.com/mike-marcacci/node-redlock/)
+
 [![Continuous Integration](https://github.com/mike-marcacci/node-redlock/workflows/Continuous%20Integration/badge.svg)](https://github.com/mike-marcacci/node-redlock/actions/workflows/ci.yml?query=branch%3Amain++)
 [![Current Version](https://badgen.net/npm/v/redlock)](https://npm.im/redlock)
 [![Supported Node.js Versions](https://badgen.net/npm/node/redlock)](https://npm.im/redlock)
